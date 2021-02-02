@@ -1,7 +1,7 @@
 
 int is_prime(int p)
 {
-    for(int i = 2; i < p/2; i++)
+    for(int i = 2; i < p/1.4; i++)
     {
         if (p % i == 0)
             return 0;
