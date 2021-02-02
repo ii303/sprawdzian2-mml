@@ -10,7 +10,7 @@
 
 >make
 
-Uruchomienie programu w konsoli:
+# Uruchomienie programu w konsoli:
 
 >./pierwsze
 
