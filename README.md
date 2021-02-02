@@ -1,5 +1,5 @@
 # Jest to kod programu wypisującego 10 kolejnych liczb pierwszych
-+(patrz definicja: https://pl.wikipedia.org/wiki/Liczba_pierwsza).
+>(patrz definicja: https://pl.wikipedia.org/wiki/Liczba_pierwsza).
 
 # Na program składają się trzy pliki:
 + prime.c: oblicza kolejne liczby pierwsze
