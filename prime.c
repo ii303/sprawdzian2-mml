@@ -15,7 +15,7 @@ int next_prime(int i)
     while (!is_prime(next))
     {
         next += 1;
-        printf("Testuję %i\n", next);
+        //printf("Testuję %i\n", next);
     }
     return next;
 }
