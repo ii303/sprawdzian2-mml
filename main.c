@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "prime.c"
 int next_prime(int);
 
 void main()
