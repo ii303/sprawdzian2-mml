@@ -12,6 +12,6 @@ make
 
 Uruchomienie programu w konsoli
 
-./pierwsze
+`./pierwsze`
 
 
