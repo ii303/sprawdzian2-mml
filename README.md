@@ -8,7 +8,7 @@ Na program składają się trzy pliki:
 
 Kompilacja programu
 
-make
+`make`
 
 Uruchomienie programu w konsoli
 
